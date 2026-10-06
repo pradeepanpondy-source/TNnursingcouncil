@@ -1,0 +1,10 @@
+{
+  "name": "tnnursingcouncil-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix TNnursingcouncil-main",
+    "build": "npm run build --prefix TNnursingcouncil-main",
+    "preview": "npm run preview --prefix TNnursingcouncil-main",
+    "lint": "npm run lint --prefix TNnursingcouncil-main"
+  }
+}
