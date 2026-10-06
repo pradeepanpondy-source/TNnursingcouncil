@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd TNnursingcouncil-main && npm install --legacy-peer-deps && npm run build",
+  "outputDirectory": "TNnursingcouncil-main/dist",
+  "framework": "vite"
+}
